@@ -43,7 +43,7 @@ const Events = () => {
     <>
     <Button />
     <Copy />
-    <MouseMove />
+    <MouseMove /> 
     </>
   )
 }

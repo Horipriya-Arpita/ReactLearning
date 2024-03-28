@@ -1,12 +1,19 @@
 //import ListMap from "./Components/ListMap";
 //import PropsTest from "./Components/PropsTest";
 //import ConditionalRendering from "./Components/ConditionalRendering";
-import Events from "./Components/Events";
+//import Events from "./Components/Events";
+//import ChangeState from "./Components/UseStateHooks/ChangeState";
+//import ArrayChange from "./Components/UseStateHooks/ArrayChange";
+//import ObjectChange from "./Components/UseStateHooks/ObjectChange";
+import Form from "./Components/Form";
+
+
 
 function App() {
   return (
     <div className="App">
-      <Events />
+      <Form />
+
     </div>
   );
 }
