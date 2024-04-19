@@ -7,13 +7,13 @@
 //import ObjectChange from "./Components/UseStateHooks/ObjectChange";
 //import Form from "./Components/Form";
 //import ChangeValue from "./Components/UseEffectHooks/ChangeValue";
-import DataFetch from "./Components/UseEffectHooks/DataFetch";
+//import DataFetch from "./Components/UseEffectHooks/DataFetch";
+import AxiosUse from "./Components/Axios/AxiosUse"
 
 function App() {
   return (
     <div className="App">
-      <DataFetch />
-
+      <AxiosUse />
     </div>
   );
 }

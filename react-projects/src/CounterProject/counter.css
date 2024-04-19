@@ -1,0 +1,33 @@
+* {
+    padding: 10px;
+    margin: 10px;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+
+.container{
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.number{
+    font-size: 80px;
+    font-weight: 800;
+
+}
+
+.btn{
+    background: #141517;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    justify-content: center;
+    color: aliceblue;
+    font-size: large;
+}
+
